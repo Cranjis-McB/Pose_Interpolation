@@ -1,2 +1,13 @@
-/data/nerf_llff/fern/images
-/data/nerf_llff/fern/images_4
+/data
+/nerf-pytorch
+/data/nerf_llff_data/fern/images
+/data/nerf_llff_data/fern/images_4
+/data/nerf_llff_data/flower
+/data/nerf_llff_data/fortress
+/data/nerf_llff_data/horns
+/data/nerf_llff_data/leaves
+/data/nerf_llff_data/orchids
+/data/nerf_llff_data/room
+/data/nerf_llff_data/trex
+/data/nerf_llff_data/nerf_instructions.html
+/data/nerf_llff_data/nerf_instructions.txt
